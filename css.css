@@ -1,1 +1,14 @@
-
+h1{
+	text-align: center;
+	font: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	font-size: 25px;
+}
+h2{
+	font-size: 15px;
+}p{
+	text-align: left;
+	letter-spacing: 1px;
+	font: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	margin-right: 150px;
+		
+}
