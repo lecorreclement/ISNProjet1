@@ -1,14 +1,49 @@
 h1{
 	text-align: center;
 	font: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
-	font-size: 25px;
+	font-size: 45px;
 }
 h2{
-	font-size: 15px;
+	font-size: 35px;
 }p{
-	text-align: left;
 	letter-spacing: 1px;
-	font: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
-	margin-right: 150px;
+	font-size : 20px;
 		
 }
+body{
+background-image: url(./images/data-migration-cloud.gif) ;
+background-repeat:repeat;
+background-attachment: relative;
+background-size: cover;
+}.p1{
+background-color:grey;
+opacity:0.85;
+box-shadow: 10px 10px 7px #444;
+ margin-left: 2%;
+  margin-right: 2%;
+}.p2{
+text-align : right;
+background-color:grey;
+opacity:0.85;
+box-shadow: 10px 10px 7px #444;
+ margin-left: 2%;
+  margin-right: 2%;
+}.imgcenter{
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+opacity : 1 ; 
+}.hg{
+text-align: left;
+}.bg{
+text-align: left;
+margin-bottom : 150px;
+}.hd{
+text-align: right;
+}.hg{
+text-align: right;
+margin-bottom : 150px;
+
+}
+
